@@ -1,7 +1,9 @@
 ---
 published: true
-title: 'An Interview with the newcomer: Mrs. Newcomer'
-date: '2019-10-03'
+title: An Interview with the newcomer: Mrs. Newcomer
+author: dorie-p
+layout: post
+date: 2019-10-03
 ---
 <dl>
   <dt>How would you describe yourself?</dt>
