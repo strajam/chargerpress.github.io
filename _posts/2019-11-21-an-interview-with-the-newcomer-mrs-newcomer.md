@@ -5,6 +5,7 @@ author: dorie-p
 layout: post
 date: 2019-10-03
 ---
+
 <dl>
   <dt>How would you describe yourself?</dt>
 <dd>I think I'm pretty easy going for the most part and pretty down-to-earth. I like to laugh and have a good time, but I also know that I have to maintain professionalism and all of those things that go on with the job that I have. I think that I am competitive; I like to work hard but I like to have fun with my family and have a balance in my life. It's important that, as much as I love supporting things and people in teams and activities here at Hamilton, there are also things that I have to do at home too so I can't be here 24/7.</dd>
