@@ -5,7 +5,7 @@ author: sarah-g
 layout: post
 date: 2019-10-31
 ---
-#What changes has the College Board made for the 2019-2020 school year, and how will they affect you?
+<b>What changes has the College Board made for the 2019-2020 school year, and how will they affect you?</b>
 
 Have you paid your AP test fees? Because this year, they’re due in November. This is just one of the many College Board changes in 2019-2020, and adjustments in AP classes can be impactful as they are an important part of high school for many juniors, seniors, and even sophomores. Understanding the College Board’s resources can lead to college credit for many students, and the amount of credit depends on exam scores in the spring that range from one to five. Although a three may suffice to pass, many students aim to achieve fives on their tests. A higher score will lead to more college credit and more money saved.
 
