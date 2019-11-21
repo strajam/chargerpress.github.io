@@ -1,7 +1,6 @@
 ---
 published: true
 title: An Interview with the newcomer: Mrs. Newcomer
-author: dorie-p
 layout: post
 date: 2019-10-03
 ---
