@@ -1,7 +1,7 @@
 ---
 published: true
 title: College Board Changes This School Year
-date: '2019-10-31'
+date: 2019-10-31
 ---
 #What changes has the College Board made for the 2019-2020 school year, and how will they affect you?
 
